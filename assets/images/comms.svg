@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="68px" height="43px" viewBox="0 0 68 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="68px" height="51px" viewBox="0 0 68 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>Icon_Comms</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Icon_Comms" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g fill="#000000" fill-rule="nonzero" id="Shape">
-            <path d="M68,0 L6.18181818,15.3571429 L6.18181818,12.2857143 L0,12.2857143 L0,30.7142857 L6.18181818,30.7142857 L6.18181818,27.6428571 L12.3636364,29.1785714 L12.3636364,39.9285714 C12.3636364,41.7714286 13.6,43 15.4545455,43 L30.9090909,43 C32.7636364,43 34,41.7714286 34,39.9285714 L34,34.4 L68,43 L68,0 Z M27.8181818,36.8571429 L18.5454545,36.8571429 L18.5454545,30.7142857 L27.8181818,33.1714286 L27.8181818,36.8571429 Z"></path>
+            <path d="M68,0 L6.18181818,18.5714286 L6.18181818,14.8571429 L0,14.8571429 L0,37.1428571 L6.18181818,37.1428571 L6.18181818,33.4285714 L12.3636364,35.2857143 L12.3636364,47.1727941 C12.3636364,49.4013655 13.6,50.8870798 15.4545455,50.8870798 L30.9090909,50.8870798 C32.7636364,50.8870798 34,49.4013655 34,47.1727941 L34,41.6 L68,50.8870798 L68,0 Z M28,44 L19,44 L19,37 L28,39.8 L28,44 Z"></path>
         </g>
     </g>
 </svg>

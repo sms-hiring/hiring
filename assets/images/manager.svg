@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="46px" height="58px" viewBox="0 0 46 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="46px" height="51px" viewBox="0 0 46 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>Icon_Manager</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Icon_Manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g fill="#000000" fill-rule="nonzero" id="Shape">
-            <path d="M23,39 C33.49465,39 42,30.270825 42,19.5 C42,8.729175 33.49465,0 23,0 C12.50535,0 4,8.729175 4,19.5 C4,30.270825 12.50535,39 23,39 Z M23,1.95 C32.429225,1.95 40.1,9.8226375 40.1,19.5 C40.1,29.1773625 32.429225,37.05 23,37.05 C13.570775,37.05 5.9,29.1773625 5.9,19.5 C5.9,9.8226375 13.570775,1.95 23,1.95 Z"></path>
-            <path d="M38.3333333,43 L7.66666667,43 C3.43275,43 0,46.358125 0,50.5 L0,58 L46,58 L46,50.5 C46,46.358125 42.56725,43 38.3333333,43 Z"></path>
+        <g transform="translate(2.000000, 0.000000)" fill="#000000" fill-rule="nonzero" id="Shape">
+            <path d="M21,35 C30.38995,35 38,27.166125 38,17.5 C38,7.833875 30.38995,0 21,0 C11.61005,0 4,7.833875 4,17.5 C4,27.166125 11.61005,35 21,35 Z M21,1.75 C29.436675,1.75 36.3,8.8151875 36.3,17.5 C36.3,26.1848125 29.436675,33.25 21,33.25 C12.563325,33.25 5.7,26.1848125 5.7,17.5 C5.7,8.8151875 12.563325,1.75 21,1.75 Z"></path>
+            <path d="M34.1666667,38 L6.83333333,38 C3.059625,38 0,40.910375 0,44.5 L0,51 L41,51 L41,44.5 C41,40.910375 37.940375,38 34.1666667,38 Z"></path>
         </g>
     </g>
 </svg>
