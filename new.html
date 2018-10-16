@@ -264,6 +264,16 @@
                                         grid-template-columns: 2fr 1;
                                     }
 
+                                    .ibm-grid-medium .cio-info-grid, .ibm-grid-small .cio-info-grid {
+                                        grid-template-rows: 320px 180px 280px 180px;
+                                        grid-template-areas:
+                                            'hero-image hero-image'
+                                            'carousel carousel'
+                                            'pic1 pic2'
+                                            'quote quote'
+                                            ;
+                                    }
+
                                     .cio-info-grid__hero-image {
                                         overflow: hidden;
                                         align-content: center;
@@ -305,8 +315,8 @@
                                     }
 
                                     .cio-image {
-                                        width:  100%; /*or 70%, or what you want*/
-                                        height: auto; /*or 70%, or what you want*/
+                                        width:  100%;
+                                        height: auto;
                                         background-size: cover;
                                         background-position: center;
                                         background-repeat: no-repeat;
