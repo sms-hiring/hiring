@@ -256,21 +256,32 @@
                                         display: grid;
                                         grid-template-areas:
                                             'hero-image hero-image  carousel'
-                                            'hero-image hero-image  pic1'
-                                            'quote      quote       pic2';
+                                            'hero-image hero-image  mediascape'
+                                            'quote      quote       entrance';
 
                                         grid-gap: 20px;
                                         grid-template-rows: repeat(3, 280px);
                                         grid-template-columns: 2fr 1;
                                     }
 
-                                    .ibm-grid-medium .cio-info-grid, .ibm-grid-small .cio-info-grid {
+                                    .ibm-grid-medium .cio-info-grid {
                                         grid-template-rows: 320px 180px 280px 180px;
                                         grid-template-areas:
                                             'hero-image hero-image'
-                                            'carousel carousel'
-                                            'pic1 pic2'
-                                            'quote quote'
+                                            'carousel   carousel'
+                                            'mediascape entrance'
+                                            'quote      quote'
+                                            ;
+                                    }
+
+                                    .ibm-grid-small .cio-info-grid {
+                                        grid-template-rows: 320px 180px 280px 180px 280px;
+                                        grid-template-areas:
+                                            'hero-image'
+                                            'carousel'
+                                            'mediascape'
+                                            'quote'
+                                            'entrance'
                                             ;
                                     }
 
@@ -298,20 +309,12 @@
                                         text-align: center;
                                     }
 
-                                    .cio-info-grid__pic1 {
-                                        overflow: hidden;
-                                        align-content: center;
-                                        justify-content: center;
-                                        background-color: lightgrey;
-                                        grid-area: pic1;
+                                    .cio-info-grid__mediascape {
+                                        grid-area: mediascape;
                                     }
 
-                                    .cio-info-grid__pic2 {
-                                        overflow: hidden;
-                                        align-content: center;
-                                        justify-content: center;
-                                        background-color: lightgrey;
-                                        grid-area: pic2;
+                                    .cio-info-grid__entrance {
+                                        grid-area: entrance;
                                     }
 
                                     .cio-image {
@@ -321,7 +324,6 @@
                                         background-position: center;
                                         background-repeat: no-repeat;
                                     }
-
 
                                 </style>
                                 <div class="ibm-fluid ibm-padding-top-3">
@@ -349,10 +351,10 @@
                                             </div>
                                         </div>
 
-                                        <div class="cio-info-grid__pic1 cio-image" style="background-image: url(assets/images/studio-1.jpg)">
+                                        <div class="cio-info-grid__mediascape cio-image" style="background-image: url(assets/images/studio-1.jpg)">
                                         </div>
 
-                                        <div class="cio-info-grid__pic2 cio-image" style="background-image: url(assets/images/studio.jpg)">
+                                        <div class="cio-info-grid__entrance cio-image" style="background-image: url(assets/images/studio.jpg)">
                                         </div>
 
                                     </div>
